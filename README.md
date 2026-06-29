@@ -22,7 +22,12 @@ This repository contains a basic Android integration using the **FaceOnLive SDK*
 The project is written in **Java** and **Kotlin** and can be used as a reference when integrating face liveness detection into Android applications.
 
 ---
+## About
 
+This repository contains a simple Android integration using the [FaceOnLive SDK](https://faceonlive.com/) for face liveness detection.
+
+The project is written in **Java** and **Kotlin** and is intended as a lightweight reference for developers integrating liveness detection into Android applications.
+---
 ## Features
 
 - Face Liveness Detection
