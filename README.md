@@ -31,6 +31,10 @@ The project is written in **Java** and **Kotlin** and is intended as a lightweig
 ## Features
 
 - Face Liveness Detection
+- Face Liveness
+- Face-recognition
+- Identity-verification
+- Biometric-authentication
 - Android SDK Integration
 - Java Example
 - Kotlin Example
