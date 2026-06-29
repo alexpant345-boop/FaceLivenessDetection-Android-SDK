@@ -46,7 +46,7 @@ The project is written in **Java** and **Kotlin** and is intended as a lightweig
 4. Build and run the project.
 
 ```bash
-git clone https://github.com/your-username/FaceLivenessDetection-Android-SDK.git
+git clone https://github.com/alexpant345-boop/FaceLivenessDetection-Android-SDK.git
 ```
 
 ---
