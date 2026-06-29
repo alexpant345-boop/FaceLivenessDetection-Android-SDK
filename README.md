@@ -2,7 +2,7 @@
 
 # FaceLivenessDetection-Android-SDK
 
-Android sample integration using the <a href="https://faceonlive.com/">FaceOnLive SDK</a>.
+Android sample integration using the FaceOnLive.
 
 <p>
 <img src="https://img.shields.io/badge/Platform-Android-brightgreen">
